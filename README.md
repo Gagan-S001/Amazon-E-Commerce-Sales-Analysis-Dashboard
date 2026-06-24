@@ -305,17 +305,7 @@ The dashboard monitors:
 
 ---
 
-## 🙌 Author
+##  📈 DASHBOARD 
+LOOK LIKE -- ![Dashoboard Preview](https://github.com/Gagan-S001/AstroSage-Call-Center-Optimization/blob/main/AstroSage%20Analysis%20Dashboard.jpg)
 
-### Gagan
 
-**Data Analyst | Power BI Developer**
-
-Skills:
-* Power BI
-* SQL
-* DAX
-* Power Query
-* Data Visualization
-* Business Intelligence
-* Dashboard Development
