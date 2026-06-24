@@ -306,6 +306,6 @@ The dashboard monitors:
 ---
 
 ##  📈 DASHBOARD 
-LOOK LIKE -- ![Dashoboard Preview](https://github.com/Gagan-S001/AstroSage-Call-Center-Optimization/blob/main/AstroSage%20Analysis%20Dashboard.jpg)
-
-
+LOOK LIKE -- ![Dashoboard Preview](https://github.com/Gagan-S001/Amazon-E-Commerce-Sales-Analysis-Dashboard/blob/main/Dashboard1.jpg)
+![Dashoboard Preview](https://github.com/Gagan-S001/Amazon-E-Commerce-Sales-Analysis-Dashboard/blob/main/Dashboard2.jpg)
+![Dashoboard Preview](https://github.com/Gagan-S001/Amazon-E-Commerce-Sales-Analysis-Dashboard/blob/main/Dashboard3.jpg)
